@@ -1,0 +1,34 @@
+{
+  "name": "pizzle",
+  "version": "1.0.0",
+  "description": "An Animation Javascript Library",
+  "main": "dist/pizzle.js",
+  "module": "dist/pizzle.es.js",
+  "browser": {
+    "pizzle-es": "dist/pizzle.es.js",
+    "pizzle-iife": "dist/pizzle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzlejs/pizzlejs.git"
+  },
+  "keywords": [
+    "pizzlejs",
+    "Javascript animation",
+    "animation library",
+    "css animation",
+    "animation",
+    "animate"
+  ],
+  "author": {
+    "name": "Tobithedev",
+    "email": "ucheemekatobi@gmail.com"
+  },  
+  "license": "MIT",
+  "jsdelivr": "dist/pizzle.js",
+  "unpkg": "dist/pizzle.js",
+  "bugs": {
+    "url": "https://github.com/pizzlejs/pizzlejs/issues"
+  },
+  "homepage": "https://pizzlejs.github.io"
+}
